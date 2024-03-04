@@ -3,7 +3,7 @@
         // Properties
         private $dbhost = 'localhost';
         private $dbuser = 'nep';
-        private $dbpass = 'NEPtimor2024';
+        private $dbpass = 'xxxxxx';
         private $dbname = 'nep';
 
         // Connect
